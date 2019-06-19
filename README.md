@@ -1,2 +1,2 @@
-# weird-commerce
-version 0.0.1
+# weird-commerce <sub>beta </sub>
+
